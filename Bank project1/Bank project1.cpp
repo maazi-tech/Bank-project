@@ -825,6 +825,7 @@ int main()
     ShowMainMenue();
     system("pause>0");
    
+    cout << "Now editing from feature branch!" << endl;
 
     return 0;
 }
