@@ -824,5 +824,7 @@ int main()
 {
     ShowMainMenue();
     system("pause>0");
+    cout << "Git Test seccesfult :) \n";
+
     return 0;
 }
