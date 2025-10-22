@@ -824,8 +824,7 @@ int main()
 {
     ShowMainMenue();
     system("pause>0");
-    cout << "Git Test seccesfult :) \n";
-	cout << "Another line to test git sync \n";
+   
 
     return 0;
 }
