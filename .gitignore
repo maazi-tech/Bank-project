@@ -21,7 +21,7 @@ Release/
 *.vcxproj.user
 
 # Other
-ipch/
+*.ipch/
 *.opendb
 *.VC.db
 *.cache
